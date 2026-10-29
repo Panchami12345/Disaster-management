@@ -1,0 +1,33 @@
+{
+  "id": "proj-karnataka-wghats-2026",
+  "name": "Kodagu-Wayanad Sector Monsoon Landslide & Flood Assessment",
+  "disaster_type": "Monsoon Landslide & Flash Flood",
+  "event_date": "2026-08-14",
+  "imagery_sources": [
+    {
+      "source": "Sentinel-2 & High-Res PlanetScope",
+      "resolution_m": 0.5,
+      "crs": "EPSG:4326"
+    },
+    {
+      "source": "Copernicus DEM GLO-30",
+      "resolution_m": 30.0,
+      "crs": "EPSG:4326"
+    }
+  ],
+  "center": [
+    12.3375,
+    75.8062
+  ],
+  "zoom": 15,
+  "bounding_box": [
+    [
+      12.3225,
+      75.7862
+    ],
+    [
+      12.3525,
+      75.8262
+    ]
+  ]
+}
